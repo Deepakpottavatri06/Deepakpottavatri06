@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Tech for Autism and Dyslexia**
 
-- 🌱 I’m currently learning **Flutter**
+[comment]: <(🌱 I’m currently learning **Flutter**)>
 
 - 📫 How to reach me **deepakpottavatri06@gmail.com**
 
